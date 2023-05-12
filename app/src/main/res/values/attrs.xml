@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+
+        <attr name="backgroundColor" format="color"/>
+        <attr name="songBackground" format="dimension"/>
+        <attr name="cardbackground" format="color"/>
+        <attr name="songList" format="dimension"/>
+        <attr name="songTitle" format="color"/>
+        <attr name="headerTitle" format="color"/>
+        <attr name="main" format="color"/>
+        <attr name="mainBackground" format="color"/>
+        <attr name="backgroundImg" format="dimension"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="tintcolor" format="color"/>
+        <attr name="buttoncolor" format="color"/>
+        <attr name="contentColor" format="color"/>
+        <attr name="headerColor" format="color"/>
+        <attr name="author" format="color"/>
+        <attr name="nav_icon" format="color"/>
+        <attr name="header" format="dimension"/>
+        <attr name="about" format="dimension"/>
+    </declare-styleable>
+</resources>

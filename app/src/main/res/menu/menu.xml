@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/menu1"
+        android:title="Settings"
+        android:divider="@color/black"
+        android:dividerHeight="1dp"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="true"
+        android:textColor="?attr/textcolor"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:divider="@color/black"
+        android:dividerHeight="1dp"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="About"
+        android:textColor="?attr/textcolor"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="true"/>
+</menu>

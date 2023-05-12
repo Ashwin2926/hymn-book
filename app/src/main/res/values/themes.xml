@@ -1,0 +1,102 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#001311</item>
+        <item name="songList">@drawable/white</item>
+        <item name="header">@drawable/down</item>
+        <item name="backgroundColor">#ffffff</item>
+        <item name="songBackground">@drawable/white</item>
+        <item name="cardbackground">#ffffff</item>
+        <item name="main">#ffffff</item>
+        <item name="songTitle">#000000</item>
+        <item name="backgroundImg">@drawable/white</item>
+        <item name="mainBackground">#2196F3</item>
+        <item name="headerTitle">#ffffff</item>
+        <item name="textcolor">#011110</item>
+        <item name="tintcolor">#001311</item>
+        <item name="buttoncolor">#011110</item>
+        <item name="contentColor">#1976D2</item>
+        <item name="headerColor">#2196F3</item>
+        <item name="author">#0BB112</item>
+        <item name="nav_icon">#000000</item>
+        <item name="about">@drawable/down</item>
+
+    </style>
+    <!--    Dark theme-->
+    <style name="darkTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#011110</item>
+        <item name="colorPrimaryDark">#011110</item>
+        <item name="colorAccent">#1976D2</item>
+        <item name="backgroundColor">#011210</item>
+        <item name="songBackground">@drawable/songback</item>
+        <item name="songList">@drawable/songback</item>
+        <item name="cardbackground">#011110</item>
+        <item name="textcolor">#DDE1E3</item>
+        <item name="backgroundImg">@drawable/dark</item>
+        <item name="header">@drawable/down</item>
+        <item name="songTitle">#B1B1B1</item>
+        <item name="headerTitle">#8E8D8D</item>
+        <item name="mainBackground">#011110</item>
+        <item name="main">#CFCBCB</item>
+        <item name="tintcolor">#ffffff</item>
+        <item name="buttoncolor">#B1B1B1</item>
+        <item name="contentColor">#011110</item>
+        <item name="headerColor">#011110</item>
+        <item name="author">#EBF3EC</item>
+        <item name="nav_icon">#FFFFFF</item>
+        <item name="about">@drawable/about_dark</item>
+
+    </style>
+    <style name="Theme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#001311</item>
+        <item name="songList">@drawable/white</item>
+        <item name="header">@drawable/down</item>
+        <item name="backgroundColor">#ffffff</item>
+        <item name="songBackground">@drawable/white</item>
+        <item name="cardbackground">#ffffff</item>
+        <item name="main">#ffffff</item>
+        <item name="songTitle">#000000</item>
+        <item name="backgroundImg">@drawable/white</item>
+        <item name="mainBackground">#2196F3</item>
+        <item name="headerTitle">#ffffff</item>
+        <item name="textcolor">#011110</item>
+        <item name="tintcolor">#001311</item>
+        <item name="nav_icon">#000000</item>
+        <item name="buttoncolor">#011110</item>
+        <item name="contentColor">#1976D2</item>
+        <item name="about">@drawable/down</item>
+        <item name="author">#0BB112</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <!--    Dark theme-->
+    <style name="Theme2" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#011110</item>
+        <item name="colorPrimaryDark">#011110</item>
+        <item name="colorAccent">#1976D2</item>
+        <item name="backgroundColor">#011210</item>
+        <item name="songBackground">@drawable/songback</item>
+        <item name="songList">@drawable/songback</item>
+        <item name="cardbackground">#011110</item>
+        <item name="textcolor">#DDE1E3</item>
+        <item name="backgroundImg">@drawable/dark</item>
+        <item name="header">@drawable/down</item>
+        <item name="songTitle">#B1B1B1</item>
+        <item name="headerTitle">#8E8D8D</item>
+        <item name="mainBackground">#011110</item>
+        <item name="main">#CFCBCB</item>
+        <item name="tintcolor">#ffffff</item>
+        <item name="buttoncolor">#B1B1B1</item>
+        <item name="contentColor">#011110</item>
+        <item name="about">@drawable/about_dark</item>
+        <item name="author">#EBF3EC</item>
+        <item name="nav_icon">#FFFFFF</item>
+
+    </style>
+</resources>
